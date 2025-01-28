@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/youjiiny/Algorithm/tree/master/0020-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/youjiiny/Algorithm/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/youjiiny/Algorithm/tree/master/1582-design-browser-history) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/youjiiny/Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
