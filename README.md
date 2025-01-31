@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/youjiiny/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [1582-design-browser-history](https://github.com/youjiiny/Algorithm/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/youjiiny/Algorithm/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/youjiiny/Algorithm/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/youjiiny/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
