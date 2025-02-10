@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/youjiiny/Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/youjiiny/Algorithm/tree/master/0200-number-of-islands) |
 | [1582-design-browser-history](https://github.com/youjiiny/Algorithm/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/youjiiny/Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/youjiiny/Algorithm/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -47,12 +49,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/youjiiny/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/youjiiny/Algorithm/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/youjiiny/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/youjiiny/Algorithm/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/youjiiny/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/youjiiny/Algorithm/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
