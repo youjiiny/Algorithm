@@ -72,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/youjiiny/Algorithm/tree/master/0871-keys-and-rooms) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youjiiny/Algorithm/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youjiiny/Algorithm/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/youjiiny/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
